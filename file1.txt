@@ -1,7 +1,7 @@
 erer
 fffff
 ddd  --- ht
-<<<<<<< HEAD
+
 v
 
 
@@ -9,7 +9,5 @@ v
 dd
 d
 dddd224354654
-=======
 
-cccccc
->>>>>>> 3168a828d149291f44cf35b02808556c2e4bdc4b
+new line
